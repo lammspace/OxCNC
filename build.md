@@ -55,3 +55,15 @@ Wiring:
 | Motor W | Black (large) |
 | Motor V | White (large) |
 | Motor U | Red (large)   |
+
+## Software
+
+Changes to the GRBL config.h:
+
+* Comment out HOMING_INIT_LOCK which prevents homing
+* Change SPINDLE_MAX_RPM to 12000
+* Change SPINDLE_MIN_RPM to 6000
+
+
+// #define MINIMUM_SPINDLE_PWM 5 // Default disabled. Uncomment to enable. Integer (0-255)
+
