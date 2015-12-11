@@ -57,7 +57,13 @@ Wiring:
 | Motor V | White (large) |
 | Motor U | Red (large)   |
 
+Connecting the GRBL controller to the speed controller:
+
+What colours did I use?!
+
 ## Software
+
+### Firmware tweaks
 
 Changes to the GRBL config.h:
 
@@ -65,6 +71,18 @@ Changes to the GRBL config.h:
 * Change SPINDLE_MAX_RPM to 12000
 * Change SPINDLE_MIN_RPM to 6000
 
-
 // #define MINIMUM_SPINDLE_PWM 5 // Default disabled. Uncomment to enable. Integer (0-255)
+
+### Testing
+
+Spindle testing using G codes:
+
+* https://en.wikipedia.org/wiki/G-code#List_of_M-codes_commonly_found_on_FANUC_and_similarly_designed_controls
+
+So:
+
+* M3 - Spindle on (clockwise)
+* M4 - Spindle on (anti-clockwise)
+* M5 - Spindle off
+* S1000 - Speed 1000
 
