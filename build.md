@@ -6,7 +6,7 @@
 
 * Ox CNC 750 x 1000 kit from Ooznest - http://ooznest.co.uk/3D-Printer-CNC-Kits-Bundles/OX-CNC-Machine
 * 400W Brushless Spindle Motor ER11 & Mach3 PWM speed controller + PSU - http://www.ebay.co.uk/itm/141684438281
-* GRBL compatible Arduino shield v3.00 - blog.protoneer.co.nz/arduino-cnc-shield/
+* GRBL compatible Arduino shield v3.00 - http://blog.protoneer.co.nz/arduino-cnc-shield/
 
 ### 3d Printed Parts
 
