@@ -7,8 +7,11 @@
 * Ox CNC 750 x 1000 kit from Ooznest - http://ooznest.co.uk/3D-Printer-CNC-Kits-Bundles/OX-CNC-Machine
 * 400W Brushless Spindle Motor ER11 & Mach3 PWM speed controller + PSU - http://www.ebay.co.uk/itm/141684438281
 * GRBL compatible Arduino shield v3.00 - http://blog.protoneer.co.nz/arduino-cnc-shield/
+* 2 x 1M Plastic Open Type Towline Cable Carrier Drag Chain 15mm x 20mm - http://www.amazon.co.uk/gp/product/B00AUB2584
 
 ### 3d Printed Parts
+
+* NEMA23 stepper backs - https://www.thingiverse.com/thing:1002246
 
 ## Wiring details
 
