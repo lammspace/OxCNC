@@ -12,6 +12,8 @@
 ### 3d Printed Parts
 
 * NEMA23 stepper backs - https://www.thingiverse.com/thing:1002246
+* Cable Chain - X Axis - Bottom Bracket - http://a360.co/1P55SAS
+* Cable Chain - X Axis - Top Bracket - http://a360.co/224AYQb
 
 ## Wiring details
 
