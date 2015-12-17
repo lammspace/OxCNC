@@ -8,6 +8,7 @@
 * 400W Brushless Spindle Motor ER11 & Mach3 PWM speed controller + PSU - http://www.ebay.co.uk/itm/141684438281
 * GRBL compatible Arduino shield v3.00 - http://blog.protoneer.co.nz/arduino-cnc-shield/
 * 2 x 1M Plastic Open Type Towline Cable Carrier Drag Chain 15mm x 20mm - http://www.amazon.co.uk/gp/product/B00AUB2584
+* 2 x M5 drop in t-nuts for misc bolting of stuff on - http://ooznest.co.uk/Drop-In-Tee-Nuts
 
 ### 3d Printed Parts
 
