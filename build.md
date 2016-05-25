@@ -88,8 +88,8 @@ Spindle testing using G codes:
 
 So:
 
-* M3 - Spindle on (clockwise)
-* M4 - Spindle on (anti-clockwise)
-* M5 - Spindle off
+* M03 - Spindle on (clockwise)
+* M04 - Spindle on (anti-clockwise)
+* M05 - Spindle off
 * S1000 - Speed 1000
 
