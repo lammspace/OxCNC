@@ -68,6 +68,11 @@ Connecting the GRBL controller to the speed controller:
 
 What colours did I use?!
 
+### Limit switches
+
+* Proximity switches - http://www.dx.com/p/lj12a3-4-z-bx-inductive-proximity-switch-black-silver-dc-6-36v-100cm-cable-228309#.V4ySRR9vEeM
+* 4 channel 24v relay board - http://www.ebay.co.uk/itm/24V-4-Channel-Relay-Module-With-OPTO-Isolated-High-and-Low-Level-Trigger-/301460254292?
+
 ## Software
 
 ### Firmware tweaks
