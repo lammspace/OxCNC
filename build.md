@@ -93,3 +93,11 @@ So:
 * M05 - Spindle off
 * S1000 - Speed 1000
 
+### Notes
+
+Bed area limits:
+
+  x = 561
+  y = 740
+  z =  60
+
